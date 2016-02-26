@@ -142,9 +142,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\HW02\HW02\fanclass.h" />
-    <ClInclude Include="..\..\..\HW02\HW02\quadraticfunction.h" />
-    <ClInclude Include="..\..\..\HW02\HW02\theEvenNumber.h" />
+    <ClInclude Include="fanclass.h" />
+    <ClInclude Include="quadraticfunction.h" />
+    <ClInclude Include="TheEvenNumber.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp" />

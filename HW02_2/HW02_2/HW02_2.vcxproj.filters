@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\HW02\HW02\theEvenNumber.h">
+    <ClInclude Include="TheEvenNumber.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\HW02\HW02\quadraticfunction.h">
+    <ClInclude Include="quadraticfunction.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\HW02\HW02\fanclass.h">
+    <ClInclude Include="fanclass.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
